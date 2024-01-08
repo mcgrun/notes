@@ -1,4 +1,4 @@
-Rutherford-Modell des Atoms
+# Rutherford-Modell des Atoms
 
 Das Rutherford-Modell des Atoms prägte das Verständnis des Atomaufbaus zu Beginn des 20. Jahrhunderts. Es beschreibt ein Atom mit einem kleinen, positiv geladenen Kern, um den die Elektronen in verschiedenen Bahnen kreisen.
 
