@@ -32,4 +32,31 @@
    - Praktische Anwendungen der Elektrostatik
    - Vorbereitung auf eine kleine Abschlussprüfung
 
-Diese Reihenplanung kann entsprechend den Bedürfnissen der Klasse und dem Lehrplan angepasst werden.
+---
+## Einführung in die Elektrostatik
+
+1. **Stunde 1: Einführung in die Elektrostatik**
+   - **Einleitung:**
+     - Motivation durch alltägliche Phänomene (z.B., Reibungselektrizität)
+     - Bedeutung der Elektrostatik im Kontext der Elektrizität
+   
+   - **Grundlagen der Ladung:**
+     - Erklärung von positiver und negativer Ladung
+     - Demonstration einfacher Ladungstrennungsprozesse
+     
+   - **Ladungserhaltung:**
+     - Erläuterung des Gesetzes der Ladungserhaltung
+     - Beispiele zur Veranschaulichung des Ladungserhaltungsprinzips
+
+2. **Stunde 2: Elektrische Elementarladung und Elektronen:**
+   - **Elektrische Elementarladung:**
+     - Vorstellung der Elementarladung und des quantisierten Ladungsbegriffs
+     - Historischer Kontext: Experimente von Millikan
+
+   - **Elektronen als Ladungsträger:**
+     - Erklärung der Rolle der Elektronen in der Elektrostatik
+     - Veranschaulichung anhand von Schalenmodellen
+
+   - **Praktische Übung:**
+     - Experimente zur Ladungstrennung und Nachweis von Elektronen
+     - Diskussion der Beobachtungen und Schlussfolgerungen
