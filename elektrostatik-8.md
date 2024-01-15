@@ -1,62 +1,37 @@
-# Elektrostatik 8
-1. **Stunde 1-2: Einführung in die Elektrostatik**
-   - Grundlagen der Ladung: positive und negative Ladung
-   - Ladungserhaltung
-   - Elektrische Elementarladung
-   
-2. **Stunde 3-4: Coulombsches Gesetz**
-   - Erklärung der Wechselwirkung zwischen geladenen Teilchen
-   - Berechnung der elektrischen Kraft mit dem Coulombschen Gesetz
+**Arbeitsblatt: Einführung in die Elektrostatik (Stunde 1)**
 
-3. **Stunde 5-6: Elektrische Felder**
-   - Definition und Eigenschaften von elektrischen Feldern
-   - Darstellung von elektrischen Feldlinien
-   - Relevanz von elektrischen Feldern im Alltag
+**Teil 1: Grundlagen der Ladung**
 
-4. **Stunde 7-8: Elektrische Potenzial**
-   - Begriffserklärung und Unterschied zum elektrischen Feld
-   - Berechnung des elektrischen Potenzials
-   - Zusammenhang zwischen elektrischem Feld und Potenzial
+1. **Begriffserklärung:**
+   - Definiere den Begriff "Elektrostatik" und nenne Beispiele aus dem Alltag.
 
-5. **Stunde 9-10: Kondensatoren**
-   - Einführung in Kondensatoren als Bauelemente
-   - Funktionsweise von Kondensatoren
-   - Anwendungen von Kondensatoren in der Technik
+2. **Ladungsarten:**
+   - Erkläre den Unterschied zwischen positiver und negativer Ladung.
+   - Finde Beispiele für Gegenstände, die positiv oder negativ geladen sein könnten.
 
-6. **Stunde 11-12: Elektrostatische Entladung und Blitz**
-   - Phänomene der elektrostatischen Entladung
-   - Erklärung von Blitzen und Schutzmaßnahmen
+3. **Ladungserhaltung:**
+   - Formuliere in eigenen Worten das Gesetz der Ladungserhaltung.
+   - Überlege, warum dieses Gesetz wichtig für das Verständnis von Elektrostatik ist.
 
-7. **Stunde 13-14: Wiederholung und Anwendungen**
-   - Rückblick auf das Gelernte
-   - Praktische Anwendungen der Elektrostatik
-   - Vorbereitung auf eine kleine Abschlussprüfung
+**Teil 2: Experimentelle Beobachtungen**
 
----
-## Einführung in die Elektrostatik
+1. **Ladungstrennung:**
+   - Führe ein einfaches Experiment zur Ladungstrennung durch (z.B., Reibung an einem Ballon).
+   - Notiere deine Beobachtungen und versuche, sie zu erklären.
 
-1. **Stunde 1: Einführung in die Elektrostatik**
-   - **Einleitung:**
-     - Motivation durch alltägliche Phänomene (z.B., Reibungselektrizität)
-     - Bedeutung der Elektrostatik im Kontext der Elektrizität
-   
-   - **Grundlagen der Ladung:**
-     - Erklärung von positiver und negativer Ladung
-     - Demonstration einfacher Ladungstrennungsprozesse
-     
-   - **Ladungserhaltung:**
-     - Erläuterung des Gesetzes der Ladungserhaltung
-     - Beispiele zur Veranschaulichung des Ladungserhaltungsprinzips
+2. **Diskussion:**
+   - Tausche dich mit einem Partner aus: Wie könnten Ladungen auf bestimmte Gegenstände übertragen werden?
+   - Überlegt gemeinsam, welche Rolle Reibung dabei spielt.
 
-2. **Stunde 2: Elektrische Elementarladung und Elektronen:**
-   - **Elektrische Elementarladung:**
-     - Vorstellung der Elementarladung und des quantisierten Ladungsbegriffs
-     - Historischer Kontext: Experimente von Millikan
+**Teil 3: Elektrische Elementarladung**
 
-   - **Elektronen als Ladungsträger:**
-     - Erklärung der Rolle der Elektronen in der Elektrostatik
-     - Veranschaulichung anhand von Schalenmodellen
+1. **Definition:**
+   - Was versteht man unter der elektrischen Elementarladung?
+   - Warum ist dieser Begriff wichtig für das Verständnis der Elektrostatik?
 
-   - **Praktische Übung:**
-     - Experimente zur Ladungstrennung und Nachweis von Elektronen
-     - Diskussion der Beobachtungen und Schlussfolgerungen
+2. **Millikans Experiment:**
+   - Lies kurz über das Experiment von Millikan.
+   - Erkläre, welche Erkenntnisse dieses Experiment zur Elektrizität geliefert hat.
+
+**Hinweis:**
+Nutze Bücher, Online-Ressourcen oder den Unterrichtsstoff, um die Aufgaben zu bearbeiten. Die Ergebnisse können in der nächsten Stunde besprochen und gemeinsam reflektiert werden.
