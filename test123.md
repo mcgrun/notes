@@ -12,7 +12,9 @@ In der klassischen Physik wird angenommen, dass die Zeit für alle Beobachter gl
 
 Die Zeitdilatation kann mathematisch durch die folgende Formel beschrieben werden:
 
-\[ t' = \frac{t}{\sqrt{1 - \frac{v^2}{c^2}}} \]
+$$
+t' = \frac{t}{\sqrt{1 - \frac{v^2}{c^2}}}
+$$
 
 Hierbei ist:
 - \( t' \) die Zeit, die für den bewegten Beobachter vergeht,
@@ -24,7 +26,9 @@ Hierbei ist:
 
 Stellen wir uns vor, ein Raumschiff bewegt sich mit 80% der Lichtgeschwindigkeit (\( v = 0,8c \)) relativ zur Erde. Ein Jahr (\( t = 1 \) Jahr) vergeht auf der Erde. Die Zeit, die für die Besatzung des Raumschiffs vergeht, kann mit der obigen Formel berechnet werden:
 
-\[ t' = \frac{1 \text{ Jahr}}{\sqrt{1 - (0,8)^2}} \approx 1,67 \text{ Jahre} \]
+$$
+t' = \frac{1 \text{ Jahr}}{\sqrt{1 - (0,8)^2}} \approx 1,67 \text{ Jahre}
+$$
 
 Das bedeutet, dass für die Besatzung des Raumschiffs 1,67 Jahre vergangen sind, während auf der Erde nur ein Jahr vergangen ist.
 
