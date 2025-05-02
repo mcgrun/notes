@@ -12,9 +12,7 @@ In der klassischen Physik wird angenommen, dass die Zeit für alle Beobachter gl
 
 Die Zeitdilatation kann mathematisch durch die folgende Formel beschrieben werden:
 
-$$
-t' = \frac{t}{\sqrt{1 - \frac{v^2}{c^2}}}
-$$
+$$t' = \frac{t}{\sqrt{1 - \frac{v^2}{c^2}}}$$
 
 Hierbei ist:
 - \( t' \) die Zeit, die für den bewegten Beobachter vergeht,
